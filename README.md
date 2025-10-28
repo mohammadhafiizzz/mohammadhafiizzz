@@ -37,39 +37,12 @@ I'm a **Computer Science student** who loves building stuff and breaking things 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadhafiizzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhafiizzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammadhafiizzz&theme=tokyonight&hide_border=true)
-  
-</div>
-
 ## 🚀 Featured Projects
 
 ### 🏥 MyCareX
 Personal health records management system for managing medical data securely and efficiently.  
 **Tech:** PHP, Laravel, MySQL  
 **Focus:** Healthcare data management, security
-
-### 🎮 Monster World
-An immersive AR/VR game project exploring interactive gameplay mechanics.  
-**Tech:** Game development frameworks, AR/VR technologies  
-**Focus:** Interactive 3D environments, user experience
-
-### 📊 Sales Record Management System
-Business solution for tracking and managing sales data with analytics.  
-**Tech:** PHP, MySQL, Web technologies  
-**Focus:** Data management, business logic
-
-### 💪 Athleum
-Fitness app prototype designed to help users track workouts and health goals.  
-**Tech:** Mobile development (Kotlin)  
-**Focus:** UI/UX design, fitness tracking features
 
 ## 🌱 Currently Learning
 
