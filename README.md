@@ -50,22 +50,26 @@ I bridge the gap between building software and securing it. My background covers
 
 ## 🚀 Featured Projects
 
+**Active Projects**
+
 ### 🏥 [MyCareX (Final Year Project)]
 *Web-Based Personal Health Record Management System*
 - **Stack:** Laravel, Tailwind CSS, MySQL
 - **Key Features:** Solves data interoperability in Malaysian healthcare using Role-Based Access Control (RBAC) to ensure strict data privacy for patient records.
 
-### 🔓 IoT SmartLock System
+**Past Projects**
+
+## 🔓 IoT SmartLock System
 *Biometric Security Hardware Integration*
 - **Stack:** Python, Raspberry Pi, OpenCV
 - **Key Features:** Developed a physical smart lock utilising real-time face recognition and GPIO programming to trigger hardware locking mechanisms.
 
-### 🛒 K' Supermarket POS
+## 🛒 K' Supermarket POS
 *Native Android Application*
 - **Stack:** Kotlin, Android SDK
 - **Key Features:** A mobile Point of Sale system capable of calculating sales totals, processing payments, and generating digital receipts.
 
-### 🎮 Custom 2D Game Engine
+## 🎮 Custom 2D Game Engine
 *Graphics & Physics Engine*
 - **Stack:** C++, OpenGL
 - **Key Features:** Built a rendering engine from scratch using linear algebra for object transformation, collision detection, and physics.
