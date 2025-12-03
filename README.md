@@ -2,58 +2,68 @@
 
 <div align="center">
   
-  **CS Student | Software Engineer | Cybersecurity Enthusiast**
+  **Final-Year CS Student @ UMS | Software Engineer | Cybersecurity Enthusiast**
   
   ![Profile Views](https://komarev.com/ghpvc/?username=mohammadhafiizzz&color=blueviolet&style=flat-square)
   
+  [![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hafiz-mohan-447590255)
+  [![](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:mohammadhafiizzzz@gmail.com)
+
 </div>
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science student** who loves building stuff and breaking things (ethically, of course). From web apps to AR/VR games, I'm all about turning ideas into working code. Currently diving deep into **software engineering**, **cybersecurity**, and leveling up my **web development** skills.
+I'm a **Final-Year Bachelor of Computer Science (Software Engineering)** student at **Universiti Malaysia Sabah (UMS)**. 
 
-- 🔐 Exploring **Cybersecurity** & secure software practices
-- 🏗️ Building **web applications** with modern frameworks
-- 🎮 Experimenting with **AR/VR** game development
-- 💡 Always curious about **Software Engineering** best practices
-- 📚 CS student constantly learning and growing
+I bridge the gap between building software and securing it. My background covers the full spectrum of development from **web applications** and **native Android apps** to **IoT hardware integration** and **game engines**. Currently, I am actively upskilling in **Ethical Hacking** and pursuing professional cybersecurity credentials.
+
+- 🔭 **Working on:** Secure health data interoperability (MyCareX)
+- 🔐 **Focus:** Secure Software Engineering (Secure Coding), Penetration Testing, and IoT
+- 🤝 **Leadership:** Experienced Team Leader for full-stack projects
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Languages** ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+**Web & Frameworks** ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Web Development**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+**Tools & Platforms** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux_(Arch/Kali)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Database & Systems**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Hardware & IoT** ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/-GPIO_Programming-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## 🚀 Featured Projects
 
-### 🏥 MyCareX
-Personal health records management system for managing medical data securely and efficiently.  
-**Tech:** PHP, Laravel, MySQL  
-**Focus:** Healthcare data management, security
+### 🏥 [MyCareX (Final Year Project)]
+*Web-Based Personal Health Record Management System*
+- **Stack:** Laravel, Tailwind CSS, MySQL
+- **Key Features:** Solves data interoperability in Malaysian healthcare using Role-Based Access Control (RBAC) to ensure strict data privacy for patient records.
 
-## 🌱 Currently Learning
+### 🔓 IoT SmartLock System
+*Biometric Security Hardware Integration*
+- **Stack:** Python, Raspberry Pi, OpenCV
+- **Key Features:** Developed a physical smart lock utilising real-time face recognition and GPIO programming to trigger hardware locking mechanisms.
 
-- 🔒 **Cybersecurity** - Ethical hacking, penetration testing, secure coding
-- 🏗️ **Software Engineering** - Design patterns, architecture, best practices
-- 🌐 **Advanced Web Development** - Modern frameworks, scalability, optimization
+### 🛒 K' Supermarket POS
+*Native Android Application*
+- **Stack:** Kotlin, Android SDK
+- **Key Features:** A mobile Point of Sale system capable of calculating sales totals, processing payments, and generating digital receipts.
 
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-mohan-447590255)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadhafiizzz)
+### 🎮 Custom 2D Game Engine
+*Graphics & Physics Engine*
+- **Stack:** C++, OpenGL
+- **Key Features:** Built a rendering engine from scratch using linear algebra for object transformation, collision detection, and physics.
 
 ---
 
@@ -61,6 +71,6 @@ Personal health records management system for managing medical data securely and
   
   **💻 Code • 🔐 Secure • 🚀 Build**
   
-  *Thanks for stopping by! Feel free to explore my repos and reach out if you want to collaborate.*
+  *Always open to discussing Security Operations and Software Development opportunities.*
   
 </div>
